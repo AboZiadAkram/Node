@@ -1,0 +1,32 @@
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Attempting to connect to database...","service":"user-service"}
+{"level":"info","message":"DB Connection Success...","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Attempting to connect to database...","service":"user-service"}
+{"level":"info","message":"DB Connection Success...","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Attempting to connect to database...","service":"user-service"}
+{"level":"info","message":"DB Connection Success...","service":"user-service"}
+{"level":"info","message":"GET /","service":"user-service"}
+{"level":"info","message":"POST /tasks","service":"user-service"}
+{"level":"info","message":"POST /task","service":"user-service"}
+{"level":"info","message":"POST /category/2","service":"user-service"}
+{"level":"info","message":"GET /category/2","service":"user-service"}
+{"level":"info","message":"GET /users","service":"user-service"}
+{"level":"info","message":"GET /tasks","service":"user-service"}
+{"level":"info","message":"POST /register","service":"user-service"}
+{"level":"info","message":"POST /users","service":"user-service"}
+{"level":"info","message":"POST /user","service":"user-service"}
+{"level":"info","message":"POST /register","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Attempting to connect to database...","service":"user-service"}
+{"level":"info","message":"DB Connection Success...","service":"user-service"}
+{"level":"info","message":"POST /","service":"user-service"}
+{"level":"info","message":"GET /users","service":"user-service"}
+{"level":"info","message":"GET /tasks","service":"user-service"}
+{"level":"info","message":"POST /register","service":"user-service"}
+{"level":"info","message":"POST /","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Attempting to connect to database...","service":"user-service"}
+{"level":"info","message":"DB Connection Success...","service":"user-service"}
+{"level":"info","message":"POST /","service":"user-service"}
